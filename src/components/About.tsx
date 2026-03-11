@@ -6,11 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+        I am Jayanth B, a Computer Science student passionate about software development 
+          and modern web technologies. I enjoy learning programming languages like Java 
+          and building web applications using HTML, CSS, and JavaScript,Python, Power BI.
+          I am interested in Full Stack Development and continuously improving my skills by working on projects
+          and exploring new technologies. My goal is to become a skilled software developer 
+          and contribute to innovative and impactful software solutions.
         </p>
       </div>
     </div>
