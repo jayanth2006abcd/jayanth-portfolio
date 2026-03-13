@@ -1,0 +1,1 @@
+import{g as t}from"./ScrollTrigger-0lJgtTtq.js";import{s as a}from"./Navbar-5XdBmaZo.js";import"./index-bpOdOhxw.js";function s(){document.body.style.overflowY="auto",a&&a.paused(!1);const o=document.getElementsByTagName("main")[0];o&&o.classList.add("main-active"),t.to("body",{backgroundColor:"#0a0e17",duration:.5,delay:1})}export{s as initialFX};
