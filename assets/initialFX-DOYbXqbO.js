@@ -1,0 +1,1 @@
+import{g as a}from"./index-C8pce-KX.js";function i(){document.body.style.overflowY="auto";const o=document.getElementsByTagName("main")[0];o&&o.classList.add("main-active"),a.to("body",{backgroundColor:"#0a0e17",duration:.5,delay:1})}export{i as initialFX};
